@@ -16,3 +16,6 @@
 
 # test script
 test.sh
+
+# ts ignore file
+/output
